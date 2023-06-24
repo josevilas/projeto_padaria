@@ -1,0 +1,20 @@
+#carouselExampleDark {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+/*#footer{
+    position: absolute;
+    height: 20vh;
+}*/
+
+main {
+    min-height: 80vh;
+}
+
+#fut {
+    color: white;
+}
+
+
